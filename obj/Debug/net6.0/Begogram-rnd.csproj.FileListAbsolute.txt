@@ -1,0 +1,15 @@
+C:\Users\Herman\Desktop\Begogram-rnd\bin\Debug\net6.0\Begogram-rnd.exe
+C:\Users\Herman\Desktop\Begogram-rnd\bin\Debug\net6.0\Begogram-rnd.deps.json
+C:\Users\Herman\Desktop\Begogram-rnd\bin\Debug\net6.0\Begogram-rnd.runtimeconfig.json
+C:\Users\Herman\Desktop\Begogram-rnd\bin\Debug\net6.0\Begogram-rnd.dll
+C:\Users\Herman\Desktop\Begogram-rnd\bin\Debug\net6.0\Begogram-rnd.pdb
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.csproj.AssemblyReference.cache
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.AssemblyInfoInputs.cache
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.AssemblyInfo.cs
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.csproj.CoreCompileInputs.cache
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.dll
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\refint\Begogram-rnd.dll
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.pdb
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\Begogram-rnd.genruntimeconfig.cache
+C:\Users\Herman\Desktop\Begogram-rnd\obj\Debug\net6.0\ref\Begogram-rnd.dll

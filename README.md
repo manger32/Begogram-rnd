@@ -1,5 +1,5 @@
 ## Begogram Logo App
 
-![alt text](blob:https://web.telegram.org/bc34707b-513f-4a9f-9058-535cb5e4082e)
+![alt text](https://vk.com/id732012332?z=photo732012332_457239387%2Fphotos732012332)
 
 Here goes your suggestions, issue a pull-request to contribute.
